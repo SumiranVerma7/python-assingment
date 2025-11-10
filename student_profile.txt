@@ -1,0 +1,12 @@
+------------------------------------
+      STUDENT PROFILE SYSTEM        
+------------------------------------
+Name:Sumiran Verma
+Roll No:2501660038
+Course:Cyber Security
+University:K.R Mangalam University
+City:Sohna
+Age:18
+Hobby:Cricket,Playing Games
+----------------------------------------
+Welcome to python programming!
